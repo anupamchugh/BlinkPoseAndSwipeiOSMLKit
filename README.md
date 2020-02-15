@@ -4,4 +4,3 @@ A Swipe Cards Tinder Prototype that uses Firebase MLKit's Face Detection API to 
 
 ![alt-text](https://github.com/anupamchugh/BlinkPoseAndSwipeiOSMLKit/blob/master/swipe-like-tinder-mlkit-blink-pose.gif)
 
-Tutorial Link: https://heartbeat.fritz.ai/build-a-touchless-swipe-ios-app-using-ml-kits-face-detection-api-da40d1e2cb86
